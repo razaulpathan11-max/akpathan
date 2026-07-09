@@ -1,0 +1,6 @@
+{
+  "name": "Free AI Tools Platform",
+  "description": "An ad-supported, free-to-use directory of advanced AI tools including Text Generation, Image Generation, Paraphrasing, Summarization, and Chatbot Q&A powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
